@@ -1,6 +1,6 @@
 <main style="font-size: 1.2rem; padding: 20px">
   <h1 style="text-align: center">Front-end web e mobile - Canivete suiço dos(as) dev(as)</h1>
-  <div style="display: flex; justify-content: center; padding: 40px">
+  <div style="display: flex; justify-content: center; padding: 40px; text-align: center;">
   	<img src="https://lh6.googleusercontent.com/YjNZafoZ9YEuktUs9dV1CWkc-MKpYShObXFaKW3t1ENtr6EPsDu4FmanG8sFp2S5LESUt5HNJ-JBxqtuCJG_=w952-h471-rw" height="250" />
     <img src="https://lh5.googleusercontent.com/FzbshxjYO8VVjO2UZ_hWfYp5Drnkwtpv_bddmGPVzILJQ1LHDPKQPbMTK6GCsBF62v_oP-IAdUdQz5Iex4RG=w952-h471-rw" height="250"/>    
   </div>
@@ -17,7 +17,7 @@
    <article>
      <section id="introduction">
      	<h2>
-    	   <a href="#" style="text-decoration: none; color: #000">Introdução</a>     
+    	   <a href="#front-end-web-e-mobile---canivete-suiço-dosas-devas" style="text-decoration: none; color: #000">Introdução</a>     
         </h2>	 
         <p>
           Estava neste dia chuvoso pensando no que fazer ou publicar em meu github. Bem eis que 
@@ -161,7 +161,7 @@
      </section>	
 	 <section id="emoji">
          <h2>
-             <a href="#" style="text-decoration: none; color: #000"> 😛 Emojis </a>
+             <a href="#front-end-web-e-mobile---canivete-suiço-dosas-devas" style="text-decoration: none; color: #000"> 😛 Emojis </a>
          </h2>
          Emojis servem para dar emoção no texto, muita gente gosta! Confira a lista:
          <ul>
