@@ -9,7 +9,7 @@
         <li><a href="#-------introdução-------------">Introdução</a></li>
      	<li><a href="#-------ilustrações-modernas-e-vetores-------------">Ilustrações modernas e vetores</a></li>
         <li><a href="#images">Imagens super legais</a></li>
-        <li><a href="#icons">Melhores sites de icones</a></li>
+        <li><a href="#-----------ícones-----------">Melhores sites de icones</a></li>
         <li><a href="#emojis">Emojis para seus apps</a></li>
          <li><a href="#fonts">Fontes</a></li>
      </ul>
