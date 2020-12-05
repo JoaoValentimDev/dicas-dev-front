@@ -32,7 +32,7 @@
      </section>
      <section id="illustration">
      	<h2>
-    	   <a href="#" style="text-decoration: none; color: #000">Ilustrações modernas e vetores</a>     
+    	   <a href="#front-end-web-e-mobile---canivete-suiço-dosas-devas" style="text-decoration: none; color: #000">Ilustrações modernas e vetores</a>     
         </h2>	 
         <p>
             Lista caprichada de vetores e ilustrações que deixam qualquer site moderno e bonito:
@@ -79,7 +79,7 @@
      </section>
      <section id="images">
      	<h2>
-    	   <a href="#" style="text-decoration: none; color: #000">📸 Imagens super legais</a>     
+    	   <a href="#front-end-web-e-mobile---canivete-suiço-dosas-devas" style="text-decoration: none; color: #000">📸 Imagens super legais</a>     
         </h2>
         <p>
 		   Se seu site ou sua apresentação precisa de uma imagem bonita, com certeza essa lista vai te atender super bem:
@@ -119,7 +119,7 @@
      </section>
      <section id="icons">
        <h2>
-       	   <a href="#" style="text-decoration: none; color: #000">🎉 Ícones</a>	    
+       	   <a href="#front-end-web-e-mobile---canivete-suiço-dosas-devas" style="text-decoration: none; color: #000">🎉 Ícones</a>	    
        </h2>
          <p>
              Segue uma lista de ícones para projetos web e mobile (React Native, Flutter e outros), cada uma mais bonito que o outro:
@@ -173,7 +173,7 @@
      </section>
      <section id="fonts">
         <h2>
-            <a href="#" style="text-decoration: none; color: #000"> 🔤 Fontes </a> 
+            <a href="#front-end-web-e-mobile---canivete-suiço-dosas-devas" style="text-decoration: none; color: #000"> 🔤 Fontes </a> 
         </h2>
         <p>
             Tipografia é muito importante, você pode baixar as fontes no seu computador e 
