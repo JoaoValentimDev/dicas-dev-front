@@ -1,9 +1,5 @@
 <main style="font-size: 1.2rem; padding: 20px">
   <h1 style="text-align: center">Front-end web e mobile - Canivete suiço dos(as) dev(as)</h1>
-  <div style="display: flex; justify-content: center; padding: 40px; text-align: center;">
-  	<img src="https://lh6.googleusercontent.com/YjNZafoZ9YEuktUs9dV1CWkc-MKpYShObXFaKW3t1ENtr6EPsDu4FmanG8sFp2S5LESUt5HNJ-JBxqtuCJG_=w952-h471-rw" height="250" />
-    <img src="https://lh5.googleusercontent.com/FzbshxjYO8VVjO2UZ_hWfYp5Drnkwtpv_bddmGPVzILJQ1LHDPKQPbMTK6GCsBF62v_oP-IAdUdQz5Iex4RG=w952-h471-rw" height="250"/>    
-  </div>
   <nav>
      <ul>
         <li><a href="#-------introdução-------------">Introdução</a></li>
@@ -54,7 +50,7 @@
                 <li>            <a href="https://icons8.com/" target="_blank">https://icons8.com/</a></li>
                 <li>            <a href="https://usesmash.com/" target="_blank">https://usesmash.com/</a></li>
                 <li>            <a href="https://github.com/neutraltone/awesome-stock-resources#illustration" target="_blank">https://github.com/neutraltone/awesome-stock-resources#illustration</a></li>
-                </ul>
+             </ul>
         </p>
         <p>
           <h2> 🖼️ Figma </h2>
